@@ -2,7 +2,7 @@
 Practical examples of QA activities related to Manual Testing
 
 
-##Introduction
+## Introduction
 @Author: Diego Bezerra
 
 
