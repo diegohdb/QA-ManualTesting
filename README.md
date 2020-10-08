@@ -1,2 +1,18 @@
 # QA-ManualTesting
 Practical examples of QA activities related to Manual Testing
+
+QA Manual Testing 
+
+============
+Introduction
+============
+
+:Author: Diego Bezerra
+
+This repository is a practical example of QA activities related to Manual Testing. 
+It contains artifacts related to the following processes based in the software requirements: 
+- Planning 
+- Execution 
+- Bug Report
+- Execution Report 
+
