@@ -13,7 +13,7 @@ It contains artifacts related to the following processes based in the software r
 
 In this project the website Banco de Séries was used as a object of testing. The artifacts were generated as documents and also the test plan, test suite, bug report and execution were implemented in the open source test management tool <a target="_blank" href="https://www.testquality.com/">Test Quality </a>.
 
-All the artifacts and informations related for the project can be found <a href="https://diegohdb.testquality.com/project/11267">here</a>.
+All the artifacts and informations related for the project on Test Quality can be found <a href="https://diegohdb.testquality.com/project/11267">here</a>.
 
 
 ## Author
