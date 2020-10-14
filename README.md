@@ -11,7 +11,10 @@ It contains artifacts related to the following processes based in the software r
 - Execution Report 
 
 
-In this project the website Banco de Séries was used as a object of testing. The artifacts were generated as documents and also the test plan, test suite, bug report and execution were implemented in the open source test managment tool https://www.testquality.com/.
+In this project the website Banco de Séries was used as a object of testing. The artifacts were generated as documents and also the test plan, test suite, bug report and execution were implemented in the open source test management tool <a target="_blank" href="https://www.testquality.com/">Test Quality </a>.
+
+All the artifacts and informations related for the project can be found <a href="https://diegohdb.testquality.com/project/11267">here</a>.
+
 
 ## Author
 <a target="_blank" href="https://github.com/diegohdb/diegohdb">Diego Bezerra </a>
